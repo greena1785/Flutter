@@ -1,0 +1,9 @@
+void main(){
+  print('To print the 51 to 60 using while loop');
+  int i = 51;
+  while (i <= 60)
+  {
+    print(i);
+    ++i;
+  }
+}
